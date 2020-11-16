@@ -1,0 +1,1 @@
+pasekLED = neopixel.create(DigitalPin.P0, 3, NeoPixelMode.RGB)
